@@ -1,0 +1,75 @@
+﻿  main.c
+C:\Users\user\source\repos\Project6\main.c(27,2): error C2059: 구문 오류: 'return'
+  main2.c
+C:\Users\user\source\repos\Project6\main2.c(6,17): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+C:\Users\user\source\repos\Project6\main2.c(6,17): error C2061: 구문 오류: 식별자 ' '
+C:\Users\user\source\repos\Project6\main2.c(7,6): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+C:\Users\user\source\repos\Project6\main2.c(7,13): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+C:\Users\user\source\repos\Project6\main2.c(7,16): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+C:\Users\user\source\repos\Project6\main2.c(7,16): error C2061: 구문 오류: 식별자 ' '
+C:\Users\user\source\repos\Project6\main2.c(7,16): error C2059: 구문 오류: ';'
+C:\Users\user\source\repos\Project6\main2.c(7,19): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+C:\Users\user\source\repos\Project6\main2.c(8,1): error C2143: 구문 오류: '{'이(가) '}' 앞에 없습니다.
+C:\Users\user\source\repos\Project6\main2.c(8,1): error C2059: 구문 오류: '}'
+C:\Users\user\source\repos\Project6\main2.c(12,15): error C2079: 'person'은(는) 정의되지 않은 struct 'human'을(를) 사용합니다.
+C:\Users\user\source\repos\Project6\main2.c(15,10): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\user\source\repos\Project6\main2.c(16,10): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\user\source\repos\Project6\main2.c(17,10): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\user\source\repos\Project6\main2.c(19,18): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\user\source\repos\Project6\main2.c(19,47): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\user\source\repos\Project6\main2.c(19,8): error C2198: 'memset': 호출에 인수가 너무 적습니다.
+C:\Users\user\source\repos\Project6\main2.c(20,18): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\user\source\repos\Project6\main2.c(20,47): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\user\source\repos\Project6\main2.c(20,8): error C2198: 'memset': 호출에 인수가 너무 적습니다.
+C:\Users\user\source\repos\Project6\main2.c(21,18): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\user\source\repos\Project6\main2.c(21,47): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\user\source\repos\Project6\main2.c(21,8): error C2198: 'memset': 호출에 인수가 너무 적습니다.
+C:\Users\user\source\repos\Project6\main2.c(23,17): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\user\source\repos\Project6\main2.c(23,8): error C2198: 'strcpy': 호출에 인수가 너무 적습니다.
+C:\Users\user\source\repos\Project6\main2.c(24,17): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\user\source\repos\Project6\main2.c(24,8): error C2198: 'strcpy': 호출에 인수가 너무 적습니다.
+C:\Users\user\source\repos\Project6\main2.c(25,17): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\user\source\repos\Project6\main2.c(25,8): error C2198: 'strcpy': 호출에 인수가 너무 적습니다.
+C:\Users\user\source\repos\Project6\main2.c(27,42): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\user\source\repos\Project6\main2.c(27,58): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\user\source\repos\Project6\main2.c(27,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\user\source\repos\Project6\main2.c(27,9): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 0개가 제공되었습니다.
+C:\Users\user\source\repos\Project6\main2.c(27,9): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\user\source\repos\Project6\main2.c(28,42): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\user\source\repos\Project6\main2.c(28,58): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\user\source\repos\Project6\main2.c(28,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\user\source\repos\Project6\main2.c(28,9): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 0개가 제공되었습니다.
+C:\Users\user\source\repos\Project6\main2.c(28,9): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\user\source\repos\Project6\main2.c(29,42): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\user\source\repos\Project6\main2.c(29,58): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\user\source\repos\Project6\main2.c(29,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\user\source\repos\Project6\main2.c(29,9): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 0개가 제공되었습니다.
+C:\Users\user\source\repos\Project6\main2.c(29,9): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\user\source\repos\Project6\main2.c(32,21): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\user\source\repos\Project6\main2.c(33,11): error C2037: 'age'의 왼쪽은 정의되지 않은 구조체/공용 구조체 'human'을(를) 지정합니다.
+C:\Users\user\source\repos\Project6\main2.c(34,18): error C2037: 'name'의 왼쪽은 정의되지 않은 구조체/공용 구조체 'human'을(를) 지정합니다.
+C:\Users\user\source\repos\Project6\main2.c(34,8): error C2198: 'strcpy': 호출에 인수가 너무 적습니다.
+C:\Users\user\source\repos\Project6\main2.c(35,43): error C2037: 'name'의 왼쪽은 정의되지 않은 구조체/공용 구조체 'human'을(를) 지정합니다.
+C:\Users\user\source\repos\Project6\main2.c(35,58): error C2037: 'age'의 왼쪽은 정의되지 않은 구조체/공용 구조체 'human'을(를) 지정합니다.
+C:\Users\user\source\repos\Project6\main2.c(35,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\user\source\repos\Project6\main2.c(35,9): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 0개가 제공되었습니다.
+C:\Users\user\source\repos\Project6\main2.c(35,9): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\user\source\repos\Project6\main2.c(36,21): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\user\source\repos\Project6\main2.c(37,43): error C2037: 'name'의 왼쪽은 정의되지 않은 구조체/공용 구조체 'human'을(를) 지정합니다.
+C:\Users\user\source\repos\Project6\main2.c(37,58): error C2037: 'age'의 왼쪽은 정의되지 않은 구조체/공용 구조체 'human'을(를) 지정합니다.
+C:\Users\user\source\repos\Project6\main2.c(37,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\user\source\repos\Project6\main2.c(37,9): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 0개가 제공되었습니다.
+C:\Users\user\source\repos\Project6\main2.c(37,9): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\user\source\repos\Project6\main2.c(38,21): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\Users\user\source\repos\Project6\main2.c(39,45): error C2037: 'name'의 왼쪽은 정의되지 않은 구조체/공용 구조체 'human'을(를) 지정합니다.
+C:\Users\user\source\repos\Project6\main2.c(39,60): error C2037: 'age'의 왼쪽은 정의되지 않은 구조체/공용 구조체 'human'을(를) 지정합니다.
+C:\Users\user\source\repos\Project6\main2.c(39,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\user\source\repos\Project6\main2.c(39,9): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 0개가 제공되었습니다.
+C:\Users\user\source\repos\Project6\main2.c(39,9): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\user\source\repos\Project6\main2.c(23,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\source\repos\Project6\main2.c(24,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\source\repos\Project6\main2.c(25,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\source\repos\Project6\main2.c(34,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\source\repos\Project6\main2.c(41,7): error C2143: 구문 오류: '{'이(가) ':' 앞에 없습니다.
+C:\Users\user\source\repos\Project6\main2.c(41,7): error C2059: 구문 오류: ':'
+  코드를 생성하고 있습니다...
